@@ -22,7 +22,30 @@
 	<a href="mailto:jaanc.rt@gmail.com">
 		<img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="22px" alt="gmail icon" align="left"/>
 	</a>
-	<a href="https://wa.me/+523327694781 ">
+	<a href="https://wa.me/+523327694781">
 		<img src="https://unpkg.com/simple-icons@v6/icons/whatsapp.svg" width="22px" alt="whatsapp icon" align="left"/>
 	</a>
+	<a href="www.linkedin.com/in/jaan-carlo">
+		<img src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" width="22px" alt="whatsapp icon" align="left"/>
+	</a>
 </div>
+
+<h3>You can also have a look to my portfolio <a href="https://jaancarlo.netlify.app/">here</a></h3>
+
+<h2>Languajes and tools</h2>
+
+<div  style="display:flex;gap:10px;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+</div>
+<div  style="margin:2rem"></div>
+
+[![carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlo-coding&how_icons=true&theme=radical)](https://github.com/carlo-coding/github-readme-stats)
