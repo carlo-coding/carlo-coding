@@ -12,7 +12,7 @@
 		<li>Mobile app development with React Native and Firebase</li>
 	</ul>
 </ul>
-
+<h3>You can have a look to my portfolio <a href="https://jaancarlo.netlify.app/" target="_blank">here</a></h3>
 <h2>You can contact me</h2>
 
 <div style="display:flex;gap:20px;">
@@ -29,7 +29,7 @@
 		<img src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" width="22px" alt="whatsapp icon" align="left"/>
 	</a>
 </div>
-<h3>You can also have a look to my portfolio <a href="https://jaancarlo.netlify.app/" target="_blank">here</a></h3>
+
 
 
 <h2>Languajes and tools</h2>
@@ -46,6 +46,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 </div>
-<div  style="margin:5rem"></div>
+
+<h2>My stats</h2>
 
 [![carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlo-coding&how_icons=true&theme=radical)](https://github.com/carlo-coding/github-readme-stats)
