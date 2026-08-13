@@ -50,14 +50,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlo-coding&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlo-coding&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
 
 ---
 
