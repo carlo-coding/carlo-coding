@@ -19,7 +19,7 @@ Electrical power systems: steady state, N-1 security and how prices form on the 
 ## Before
 
 - **Contract software engineer, medical scheduling platform** (2023 to today). NestJS, Prisma and Next.js on a three-person team. Designed a service that predicts appointment no-shows and cancellations with CatBoost, currently in validation.
-- **[Leddeo](https://github.com/carlo-coding/leddeo-backend)** (2023). SaaS for automatic video transcription with an in-browser subtitle editor: front end, Python back end and admin panel, deployed.
+- **[Leddeo](https://github.com/carlo-coding/leddeo-backend)** (2023). SaaS that turned videos into editable subtitles in any language: Whisper transcription running on my own server, offline translation with Argos Translate, subtitles burned in with ffmpeg, and wait-time estimates from linear models fitted on logged jobs. Front end, Django back end and admin panel, deployed with Stripe billing.
 
 ## Stack
 
