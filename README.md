@@ -1,68 +1,28 @@
-<div align="center">
-  <h1>Hi there, I'm Jaan Carlo!</h1>
-  <h3>Self-taught Developer | Creative Coder</h3>
-  
-  <p>
-    I love solving complex problems and creating impactful solutions. 
-    Passionate about teamwork and clean code.
-  </p>
+# Jaan Carlo Rivera
 
-  <a href="https://jaancarlo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=netlify" alt="Portfolio">
-  </a>
-</div>
+Software engineer in Guadalajara, Mexico. I build forecasting and data systems, and the software that keeps them honest.
 
----
+## Now: clock
 
-### 🧐 About Me
+[clock.krafta.pro](https://clock.krafta.pro) · [repository](https://github.com/carlo-coding/clock)
 
-- 💎 I am dedicated to solving complicated problems and always strive for excellence.
-- 🏋️‍♂️ I thrive in team environments and prioritize clear, extensive communication.
-- 🧑‍🎓 **Currently learning & exploring:**
-  - 🧊 3D Modeling & Animation (Blender)
-  - 🌐 Three.js & React Three Fiber
-  - 🔙 Backend Development with Node.js
-  - 📱 Mobile App Dev (React Native & Firebase)
+A public forecasting record for European power. Every day, before the day-ahead market closes, it forecasts the next seven days hour by hour for Germany and Luxembourg (wind, solar, load, price) and Spain (wind, solar). The next day it scores every forecast against what actually happened, against the grid operator's own published forecast and against persistence. Every file is timestamped in the Bitcoin blockchain with OpenTimestamps and never edited.
 
----
+- Scheduled jobs on GitHub Actions, with a watchdog that opens an issue when the series stops
+- ENTSO-E API client written from scratch, with 23 and 25 hour days handled explicitly
+- The first model is deliberately naive; the dated record is the point, and the headline score stays hidden until 30 days have been scored
 
-### 🛠️ Languages and Tools
+## Learning in the open
 
-<div align="center">
+Electrical power systems: steady state, N-1 security and how prices form on the grid, on an open simulator checked against pandapower and PyPSA. Next: small transformers trained on simulated grids and measured against the exact power-flow solution.
 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  
-  <br/>
+## Before
 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  
-  <br/>
+- **Contract software engineer, medical scheduling platform** (2023 to today). NestJS, Prisma and Next.js on a three-person team. Designed a service that predicts appointment no-shows and cancellations with CatBoost, currently in validation.
+- **[Leddeo](https://github.com/carlo-coding/leddeo-backend)** (2023). SaaS for automatic video transcription with an in-browser subtitle editor: front end, Python back end and admin panel, deployed.
 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal"/>
+## Stack
 
-</div>
+Python · TypeScript · NestJS · Prisma · Next.js · React · CatBoost · GitHub Actions
 
-
----
-
-### 📬 Connect with me
-
-<div align="center">
-  <a href="https://twitter.com/janrt03243200" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:jaanc.rt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jaan-carlo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/jaan-carlo) · [X](https://x.com/janrt03243200) · jaanc.rt@gmail.com
