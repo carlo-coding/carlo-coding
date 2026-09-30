@@ -25,4 +25,4 @@ Electrical power systems: steady state, N-1 security and how prices form on the 
 
 Python · TypeScript · NestJS · Prisma · Next.js · React · CatBoost · GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/in/jaan-carlo) · [X](https://x.com/janrt03243200) · jaanc.rt@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jaan-carlo) · [X](https://x.com/JaanCarloRT) · jaanc.rt@gmail.com
